@@ -1,0 +1,64 @@
+#register{
+	background-color:#EEEEEE;
+	width:600px;
+}
+#but{
+font-size: 17px !important;
+border:none;
+font-weight: bold;
+color: #fff;
+display: inline-block;
+width: 155px;
+height: 40px;
+background-image: linear-gradient(to bottom,#fc6500,#b44800);
+border-radius: 5px;
+text-decoration: none;
+}
+#count{
+font-size: 17px !important;
+border:none;
+font-weight: bold;
+color: #fff;
+display: inline-block;
+width: 155px;
+height: 40px;
+text-align: center;
+margin-top: 10px;
+
+background-image: linear-gradient(to bottom,#fc6500,#b44800);
+border-radius: 5px;
+text-decoration: none;
+}
+#login{
+	height: 20px;
+	width: 250px;
+	
+}
+#nub{
+	height: 20px;
+	width: 250px;
+}
+#umail{
+	height: 20px;
+	width: 250px;
+}
+#adress{
+	height: 20px;
+	width: 250px;
+}
+#text_area{
+	height: 130px;
+	width: 250px;
+}
+#dim{
+	margin-left: 10px;
+}
+#len{
+	margin-left: 10px;
+}
+#height{
+	margin-left: 10px;
+}
+#square{
+	margin-left: 10px;
+}
